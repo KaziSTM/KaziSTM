@@ -26,18 +26,25 @@ I focus on crafting high-performance full-stack solutions that seamlessly integr
 <br/>  
 
 
-## Rapidfire  
+
+Here's an expanded version of the "Rapidfire" section:
+
+markdown
+Copier le code
+## Rapidfire
+
 <table><tr><td valign="top" width="50%">
 
-- 🔭 II’m currently working with [Techfly](https://github.com/Tech-Fly)🛠️, where I contribute to building cutting-edge web applications 🚀 and creating exceptional user experiences 🌟.  
-
+- 🔭 I’m currently working with [Techfly](https://github.com/Tech-Fly) 🛠️, where I contribute to building cutting-edge web applications 🚀 and creating exceptional user experiences 🌟.
+- 🌱 I'm constantly learning and experimenting with new technologies to stay updated with the latest trends and advancements in the web development landscape.
+- 💬 Ask me about anything related to web development, software architecture, or the technologies I work with! I'm always happy to share knowledge and insights.
+- 📫 Feel free to reach out to me via [email](mailto:ynezrek@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/youcef-nezrek-7685a61a6) if you'd like to discuss potential collaborations or just chat about technology and coding.
 
 </td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://github.com/KaziSTM/KaziSTM/blob/main/assets/images/typing.gif" align="center" style="width: 100%" />
 </div>  
-
 
 </td></tr></table>  
 
