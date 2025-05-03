@@ -27,10 +27,6 @@ I focus on crafting high-performance full-stack solutions that seamlessly integr
 
 
 
-Here's an expanded version of the "Rapidfire" section:
-
-markdown
-Copier le code
 ## Rapidfire
 
 <table><tr><td valign="top" width="50%">
