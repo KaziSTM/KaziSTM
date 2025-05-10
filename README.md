@@ -1,75 +1,65 @@
-## Hey 👋, I'm Youcef Nezrek!  
-  
+## Hey 👋, I'm Youcef Nezrek!
 
 <a href="https://github.com/KaziSTM" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://linkedin.com/in/youcef-nezrek-7685a61a6" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.facebook.com/ThatMFKaz" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://instagram.com/that_mofo_kaz" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
+---
 
+### 👨‍💻 About Me
 
-### Glad to see you here!  
-I’m a passionate Full-Stack Web Developer based in Oran, Algeria 🌍, specializing in the TALL stack (Tailwind CSS, Alpine.js, Livewire, and Laravel) 💻.
+I'm Youcef — a Full-Stack Web Developer from Oran, Algeria 🇩🇿 focused on building powerful, elegant, and maintainable Laravel applications.
 
-I focus on crafting high-performance full-stack solutions that seamlessly integrate frontend and backend systems. My approach blends elegance and efficiency, ensuring that applications are both user-friendly and robust.  
-  
+I work primarily with the **TALL stack** (Tailwind, Alpine.js, Livewire, Laravel), combining back-end clarity with frontend finesse.  
+I care deeply about writing code that's easy to read, scale, and build upon — especially in real-world, production-heavy environments.
 
-<br/>  
+---
 
+### ⚡ My Development Philosophy
 
+- 🔄 Architecting clean, reusable systems with SOLID and pragmatic design
+- 🧱 Building scalable apps with Livewire, Filament, and modular service layers
+- ⚙️ Dev environment mastery: Docker, Laravel Sail, Octane, zero-downtime workflows
+- 🧠 Passion for clean architecture, developer experience, and continuous learning
+- 🤝 Strong advocate for collaboration, mentorship, and community-driven growth
 
-## Rapidfire
+---
 
-<table><tr><td valign="top" width="50%">
+### 💬 Let’s Connect
 
-- 🔭 I’m currently working with [Techfly](https://github.com/Tech-Fly) 🛠️, where I contribute to building cutting-edge web applications 🚀 and creating exceptional user experiences 🌟.
-- 🌱 I'm constantly learning and experimenting with new technologies to stay updated with the latest trends and advancements in the web development landscape.
-- 💬 Ask me about anything related to web development, software architecture, or the technologies I work with! I'm always happy to share knowledge and insights.
-- 📫 Feel free to reach out to me via [email](mailto:ynezrek@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/youcef-nezrek-7685a61a6) if you'd like to discuss potential collaborations or just chat about technology and coding.
+- Got a Laravel or TALL stack idea you’re cooking up?  
+- Need help refactoring a legacy app into something scalable and clean?  
+- Just want to talk dev life, clean code, or tools?
 
-</td><td valign="top" width="50%">
+📫 Email me at [ynezrek@gmail.com](mailto:ynezrek@gmail.com)  
+Or connect on [LinkedIn](https://linkedin.com/in/youcef-nezrek-7685a61a6)
+
+---
+
+### 🧰 Tech I Work With
 
 <div align="center">
-<img src="https://github.com/KaziSTM/KaziSTM/blob/main/assets/images/typing.gif" align="center" style="width: 100%" />
-</div>  
+<a href="https://tailwindcss.com" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="50" /></a>
+<a href="https://laravel.com" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" /></a>
+<a href="https://alpinejs.dev" target="_blank"><img src="https://img.shields.io/badge/Alpine.js-0D1A26?style=for-the-badge&logo=javascript&logoColor=white" height="30" /></a>
+<a href="https://livewire.laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=laravel&logoColor=white" height="30" /></a>
+<a href="https://vuejs.org" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" height="50" /></a>
+<a href="https://www.mysql.com" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" /></a>
+<a href="https://sass-lang.com" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" height="50" /></a>
+<a href="https://www.figma.com" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" height="50" /></a>
+</div>
 
-</td></tr></table>  
+---
 
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>  
-
-<br/>  
-
-
-  
-
-<br/>  
-
-
-<br />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" />
+</div>
